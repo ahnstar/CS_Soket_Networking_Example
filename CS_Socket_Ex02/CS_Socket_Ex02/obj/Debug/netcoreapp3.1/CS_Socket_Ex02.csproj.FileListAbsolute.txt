@@ -1,0 +1,14 @@
+C:\Visual Studio Projects\CS_Socket_Ex02\CS_Socket_Ex02\bin\Debug\netcoreapp3.1\CS_Socket_Ex02.exe
+C:\Visual Studio Projects\CS_Socket_Ex02\CS_Socket_Ex02\bin\Debug\netcoreapp3.1\CS_Socket_Ex02.deps.json
+C:\Visual Studio Projects\CS_Socket_Ex02\CS_Socket_Ex02\bin\Debug\netcoreapp3.1\CS_Socket_Ex02.runtimeconfig.json
+C:\Visual Studio Projects\CS_Socket_Ex02\CS_Socket_Ex02\bin\Debug\netcoreapp3.1\CS_Socket_Ex02.runtimeconfig.dev.json
+C:\Visual Studio Projects\CS_Socket_Ex02\CS_Socket_Ex02\bin\Debug\netcoreapp3.1\CS_Socket_Ex02.dll
+C:\Visual Studio Projects\CS_Socket_Ex02\CS_Socket_Ex02\bin\Debug\netcoreapp3.1\CS_Socket_Ex02.pdb
+C:\Visual Studio Projects\CS_Socket_Ex02\CS_Socket_Ex02\obj\Debug\netcoreapp3.1\CS_Socket_Ex02.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\CS_Socket_Ex02\CS_Socket_Ex02\obj\Debug\netcoreapp3.1\CS_Socket_Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Projects\CS_Socket_Ex02\CS_Socket_Ex02\obj\Debug\netcoreapp3.1\CS_Socket_Ex02.AssemblyInfoInputs.cache
+C:\Visual Studio Projects\CS_Socket_Ex02\CS_Socket_Ex02\obj\Debug\netcoreapp3.1\CS_Socket_Ex02.AssemblyInfo.cs
+C:\Visual Studio Projects\CS_Socket_Ex02\CS_Socket_Ex02\obj\Debug\netcoreapp3.1\CS_Socket_Ex02.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\CS_Socket_Ex02\CS_Socket_Ex02\obj\Debug\netcoreapp3.1\CS_Socket_Ex02.dll
+C:\Visual Studio Projects\CS_Socket_Ex02\CS_Socket_Ex02\obj\Debug\netcoreapp3.1\CS_Socket_Ex02.pdb
+C:\Visual Studio Projects\CS_Socket_Ex02\CS_Socket_Ex02\obj\Debug\netcoreapp3.1\CS_Socket_Ex02.genruntimeconfig.cache
